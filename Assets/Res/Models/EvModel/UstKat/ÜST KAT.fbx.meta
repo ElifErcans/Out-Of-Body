@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 3a2fd571f91f94c5db34f72a5d49e53e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-Hungarian Parquet_11_baseColor
+    second: {fileID: 2800000, guid: bea273c5eb9ee470ba53f17c306be715, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-Hungarian Parquet_11_normal
+    second: {fileID: 2800000, guid: 43a3b815c36cf4cd29601b43f3f3e64a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-Hungarian Parquet_11_roughness
+    second: {fileID: 2800000, guid: 560c1b47db3f049168554ece8216f96e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-Hungarian Parquet_11_specularLevel
+    second: {fileID: 2800000, guid: 14c8002834fbb47f0a05d518fa9937cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-american_oak_1_basecolor
+    second: {fileID: 2800000, guid: 953bc6ba831514783a4d851a6986c8af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-american_oak_1_metallic
+    second: {fileID: 2800000, guid: 152cb4255023a4088a786d4425ef823d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-american_oak_1_normal
+    second: {fileID: 2800000, guid: 41c979b238b224529b91a73b86f8b421, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-american_oak_1_roughness
+    second: {fileID: 2800000, guid: a727f2cac8f1d4148bb00b5f6f361614, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-fabric_49_baseColor
+    second: {fileID: 2800000, guid: f2a56533148d84abcb6364646c876ba7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-fabric_49_normal
+    second: {fileID: 2800000, guid: ee4da286c45e14d88823362afeb8efd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-fabric_49_roughness
+    second: {fileID: 2800000, guid: c326dba8c6cfc49a9bc9560303343264, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_20-normal
+    second: {fileID: 2800000, guid: 3574cc80a551d4b51bf3ab82dc5d7f18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_20-specular
+    second: {fileID: 2800000, guid: 0acfd811ef5c24b67b5087af7d7b6bbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1br9qfwkhm4634r1g1o
+    second: {fileID: 2800000, guid: 0eebbe0ff7ce6475e857b176c0465114, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4aa4586a05d09b9b9622a95c9704dd33
+    second: {fileID: 2800000, guid: 116d297191db34c53bc5efd0affbe1d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 8a937a9f57b12c8a3dee9256cbdbcb0e
+    second: {fileID: 2800000, guid: 259afca2caa124121bb12c236ea5b063, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Lace_025_normal
+    second: {fileID: 2800000, guid: 149e0506727214eb4ab5bdf23c1126b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Lace_025_roughness
+    second: {fileID: 2800000, guid: e4c63c2f038a54a80820fe44591fc13e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMap
+    second: {fileID: 2800000, guid: c969be9f331c940f08caa8b16ebad996, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMap (4)
+    second: {fileID: 2800000, guid: 22b4be54df9b84f99a060734ffa43a61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BookCovers0077_2_masked_S
+    second: {fileID: 2800000, guid: 7237e0ad6d1394c22972a2af50683721, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BookCovers0097_M
+    second: {fileID: 2800000, guid: 41a082c9748c747e3886b95f427c6836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BookCovers0099_M (1)
+    second: {fileID: 2800000, guid: 3e28c667679a04622bdf506b5d2b72e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BookCovers0122_9_masked_S
+    second: {fileID: 2800000, guid: 3509939482c094a80b57d4c583bae68c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BookCovers0135_5_masked_S
+    second: {fileID: 2800000, guid: 3b10763f6886740cd9b3121ae9f00afc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BookCovers0169_6_masked_S
+    second: {fileID: 2800000, guid: 451c73b2f6ccd412baa21688056296a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Leather_Plain_512_albedo
+    second: {fileID: 2800000, guid: b690ac5a87d7c4811be8606573cd6d51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Leather_Plain_512_normal
+    second: {fileID: 2800000, guid: ba839d905b6254956954e0ed07399cee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Leather_Plain_512_roughness
+    second: {fileID: 2800000, guid: d89fcefa4aacd48f0812508443b4efc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_QuarterSawnLumber_1K_albedo
+    second: {fileID: 2800000, guid: c264ad542609947529e8e9701231c53f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_QuarterSawnLumber_1K_normal
+    second: {fileID: 2800000, guid: 3bef2ddaac0ea4b4cafaae47e9bd1dcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_QuarterSawnLumber_1K_roughness
+    second: {fileID: 2800000, guid: c22f8c99ba6c0422d9c748f73e5ffb6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_WallPanel_1K_albedo (1)
+    second: {fileID: 2800000, guid: 3be72bb50ad5d447ab03b223fa68f11d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_WallPanel_1K_normal
+    second: {fileID: 2800000, guid: a207505209e744b8fa32d39754bbc8fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_WallPanel_1K_roughness
+    second: {fileID: 2800000, guid: 7f3663052af8147a781124a41f4df6e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_WallTrim_512_albedo
+    second: {fileID: 2800000, guid: 4cffb2e15ccdf451ebed8098fee5d3ad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_WallTrim_512_normal
+    second: {fileID: 2800000, guid: 6d076cbf6bf684c518ed5ad9c1268d04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_WallTrim_512_roughness
+    second: {fileID: 2800000, guid: 3679a95f823a34a94b6100510a63bd27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Wenge_1K_albedo
+    second: {fileID: 2800000, guid: 9474eef722b7e4a3c9e78d1bd2affee6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Wenge_1K_normal
+    second: {fileID: 2800000, guid: d4ff33b91b60a444ba740155a9eab2c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Wenge_1K_roughness
+    second: {fileID: 2800000, guid: 75f070c0ececc4e3c9835b86cedf7660, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Worn2_1K_albedo
+    second: {fileID: 2800000, guid: 7372b75073a2445ef84266cc20ee8eea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Worn2_1K_normal
+    second: {fileID: 2800000, guid: 50ca85eeef2524ca39f082c4962b5d3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Worn2_1K_roughness
+    second: {fileID: 2800000, guid: 446cb392cdfcf48e19865388b04588ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Worn2_512_albedo
+    second: {fileID: 2800000, guid: 6176bf7d72aba4c1ca9b74e0dfef30b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Worn2_512_normal
+    second: {fileID: 2800000, guid: b2086c8096e014ecc8ce182f2ae80a8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Wood_Worn2_512_roughness
+    second: {fileID: 2800000, guid: 0e101488033ef45f381f82f30fbca83c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_WornMetal_1K_albedo
+    second: {fileID: 2800000, guid: 1c7aa7b9bb23743eeb22777a0fc75c12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_WornMetal_1K_normal
+    second: {fileID: 2800000, guid: 046b9a656c3374c66852e43ee8294d0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_WornMetal_1K_roughness
+    second: {fileID: 2800000, guid: 17ac3701c619842b5b61a5f124ba326f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cf8db18582daec934639a8b062257743
+    second: {fileID: 2800000, guid: 04debd22992724f7584eae29491a86fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: d8eded27ac52bbbf00ec56dfb4d618fe
+    second: {fileID: 2800000, guid: 6efdd1df9c97d491f8b22ec114e7c3d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e75bed2bfa618a4289460e2bdf8d7797
+    second: {fileID: 2800000, guid: 46d56803e94dc4acb9033a3ff79c9f42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_90_basecolor-1K
+    second: {fileID: 2800000, guid: 87fbd08d69cf349a5bba92d14b5722d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_90_metallic-1K
+    second: {fileID: 2800000, guid: 05bcca624a66d4137b6ceffd0c4aab49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_90_normal-1K
+    second: {fileID: 2800000, guid: 5640bd9f43a844240b268d673e955e4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fabric_90_roughness-1K
+    second: {fileID: 2800000, guid: 0b67fae3e87874e4b9694139cad16643, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: light-stone-taupe-25x50-321331
+    second: {fileID: 2800000, guid: 08364abd99fd5465f9bd0da168fd40b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: renk1K-walllpaper_20-specular
+    second: {fileID: 2800000, guid: 9728f451f9d384f4ea1b26af12986cd6, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
