@@ -1,5 +1,6 @@
 OUT OF BODY
-![Out of Body Screenshot](İndirilenler/  )
+![Out of Body Screenshot](scenes.png)
+![Out of Body Screenshot](sceness.png)
 Experience the tension, solve puzzles, and escape the unknown.
 
 Out of Body is a short horror game that immerses the player in a suspenseful environment, challenging them to navigate eerie spaces, solve intricate puzzles, and survive against a mysterious entity pursuing them.
